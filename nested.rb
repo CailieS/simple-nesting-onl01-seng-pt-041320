@@ -130,7 +130,7 @@ def adding_to_dennis
         }
      }
      binding.pry
-programmer_hash = [:dennis_ritchie] [:languages] << "assembly"
+programmer_hash [:dennis_ritchie] [:languages] << "assembly"
 end
 
 adding_to_dennis
